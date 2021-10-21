@@ -1,5 +1,3 @@
-#Ryan Wachter
-#Student ID: 003936554
 from hashtable import packages_table
 from packages import deliver_packages
 
